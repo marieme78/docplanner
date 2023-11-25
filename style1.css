@@ -320,13 +320,19 @@ footer{
 #listd{
    background-color: #00b39b;
    color: white;
+   border: none;
 }
 #listd1{
 background-color: #3d83df;
+border: none;
+border: 0 solid transparent;
+
 }
 #listd2{
 background-color: black;
 color: white;
+border: none;
+
 }
 .button{
    background-color: rgb(252, 248, 248);
@@ -340,9 +346,12 @@ color: white;
 }
 #footer{
 padding: 10px;
-
 }
 .barry{
    font-family: 'Work Sans', sans-serif;
   font-size: 30px;
+}
+option{
+   background-color: white;
+   color: black;
 }
